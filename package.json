@@ -1,7 +1,7 @@
 {
   "name": "@wode080/common",
-  "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "version": "0.1.2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -38,5 +38,17 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my080/common.git"
+  },
+  "author": "wode080",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my080/common/issues"
+  },
+  "homepage": "https://github.com/my080/common#readme"
 }
